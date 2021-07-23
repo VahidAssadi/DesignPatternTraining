@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y+jgmcsY1uGdhR40bx5jbqWRnxZHOqdwxR6LvSrKMGaZsDKLI+uhWRVWcTV0HeZ2fgNYc7F6KVi6VfRJp8tdgA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ttl\\source\\repos\\DesignPatternTraining\\Mediator\\Mediator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ttl\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
+  ],
+  "logs": []
+}

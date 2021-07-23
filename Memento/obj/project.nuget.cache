@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DpnelphCGr7PVO5toMCuXT4twlo+yKNxeUxuggocY0bVNR8UQeHBAsXEQH49BJADaC+R4rpJGHoP1dsamHRU7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ttl\\source\\repos\\DesignPatternTraining\\Memento\\Memento.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ttl\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
+  ],
+  "logs": []
+}
