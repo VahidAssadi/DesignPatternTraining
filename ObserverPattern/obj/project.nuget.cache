@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V8t9V8cisSxUj6K433o8Jc3A1PkDrqNT3XsTEcP/oAT5EHEek3RM3Y07TRRb5P7q2H9uGtTEi8xWWHoxpfvmNg==",
+  "dgSpecHash": "BN3G6qC+jzmXFXdfQ3kqmAhb5H9QFML6CwKOMsm1Rn9kEbpsMd8IjsOL/IqOcWzrhiWJ6lIdY2x4hMxnVsphuA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ttl\\source\\repos\\DesignPatternTraining\\ObserverPattern\\ObserverPattern.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\ttl\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Vahid\\source\\repos\\DesignPatternTraining\\ObserverPattern\\DesignPattern.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

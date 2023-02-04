@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ttl\\source\\repos\\DesignPatternTraining\\Memento\\Memento.csproj": {}
+    "C:\\Users\\Vahid\\source\\repos\\DesignPatternTraining\\Memento\\Memento.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ttl\\source\\repos\\DesignPatternTraining\\Memento\\Memento.csproj": {
+    "C:\\Users\\Vahid\\source\\repos\\DesignPatternTraining\\Memento\\Memento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ttl\\source\\repos\\DesignPatternTraining\\Memento\\Memento.csproj",
+        "projectUniqueName": "C:\\Users\\Vahid\\source\\repos\\DesignPatternTraining\\Memento\\Memento.csproj",
         "projectName": "Memento",
-        "projectPath": "C:\\Users\\ttl\\source\\repos\\DesignPatternTraining\\Memento\\Memento.csproj",
-        "packagesPath": "C:\\Users\\ttl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ttl\\source\\repos\\DesignPatternTraining\\Memento\\obj\\",
+        "projectPath": "C:\\Users\\Vahid\\source\\repos\\DesignPatternTraining\\Memento\\Memento.csproj",
+        "packagesPath": "C:\\Users\\Vahid\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Vahid\\source\\repos\\DesignPatternTraining\\Memento\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ttl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Vahid\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,8 +51,20 @@
           "warn": true,
           "downloadDependencies": [
             {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
               "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.14, 3.1.14]"
+              "version": "[3.1.23, 3.1.23]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
             }
           ],
           "frameworkReferences": {
@@ -63,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

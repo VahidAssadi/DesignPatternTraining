@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Y+jgmcsY1uGdhR40bx5jbqWRnxZHOqdwxR6LvSrKMGaZsDKLI+uhWRVWcTV0HeZ2fgNYc7F6KVi6VfRJp8tdgA==",
+  "dgSpecHash": "h6zolK1qZqAfE+YmpQCNICPvRF2IpzsYd+U2X8uWDfYWCKMVGjeSjqNWjmXoWtAPF777oYNeDCUQKId5rVCjHA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ttl\\source\\repos\\DesignPatternTraining\\Mediator\\Mediator.csproj",
+  "projectFilePath": "C:\\Users\\Vahid\\source\\repos\\DesignPatternTraining\\Mediator\\Mediator.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ttl\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
+    "C:\\Users\\Vahid\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512",
+    "C:\\Users\\Vahid\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Vahid\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Vahid\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
   ],
   "logs": []
 }
