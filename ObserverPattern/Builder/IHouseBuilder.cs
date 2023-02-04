@@ -10,5 +10,7 @@
         IHouseBuilder BuildGarage();
         IHouseBuilder BuildGarden();
 
+        House Build();
+
     }
 }
